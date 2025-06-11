@@ -1,0 +1,22 @@
+cst,wqp,wqp alt,equation
+arsenic,Arsenic,,
+cadmium,Cadmium,,e^(0.7977{ln Hardness} - 3.909)
+chlorides,Chloride,,
+chromium iii,Chromium(III),,e^(0.8190{ln Hardness} + 0.6848)
+chromium vi (hex),Chromium(VI),,
+copper,Copper,,e^(0.8545{ln Hardness} - 1.702)
+dissolved oxygen,Oxygen,,
+enterococci,Enterococcus,,
+lead,Lead,,e^(1.273{ln Hardness} - 4.705)
+mercury,Mercury,,
+methylene blue active substances,MBAS,,
+nickel,Nickel,,e^(0.8460{ln Hardness} + 0.0584)
+nitrate and nitrite (expressed as n),Inorganic nitrogen (nitrate and nitrite) as N,Inorganic nitrogen (nitrate and nitrite),
+pH (acidity/alkalinity),pH,,
+selenium,Selenium,,
+temperature,"Temperature, water",,
+total ammonia nitrogen,Ammonia and ammonium,,\\TAN = 0.8876 x (\\frac{0.0278}{1 + 10^{7.688 - pH}} + \\frac{1.1994}{1 + 10^{pH - 7.688}}) x (2.126 x 10^{0.028 x (20 - T)})
+total nitrogen,Nitrogen,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",
+total phosphorus,Phosphorus,,
+turbidity,Turbidity,,
+zinc,Zinc,,e^(0.8473{ln Hardness} + 0.884

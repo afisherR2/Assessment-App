@@ -1,0 +1,50 @@
+parameter,standardnameR,standard,units,Class
+IR Cycle,assessyear,2022,,
+Aluminum,aluminumstndD,87,ug/l,SD
+Antimony,antimonystndB,640,ug/l,SB
+Antimony,antimonystndD,5.6,ug/l,SD
+Arsenic,arsenicstndB,36,ug/l,SB
+Arsenic,arsenicstndD,10,ug/l,SD
+Cadmium,cadmiumstndB,7.95,ug/l,SB
+Chlorides,chloridestandardD,230,mg/l,SD
+ChromiumVI,chromiumVIstndB,50.4,ug/l,SB
+ChromiumVI,chromiumVIstndD,11.4,ug/l,SD
+Copper,copperstndB,3.73,ug/l,SB
+Cyanide free,cyanidestndB,0.001,mg/l,SB
+Cyanide total,cyanidestndD,0.004,mg/l,SD
+Dissolved Oxygen,DOstandard,5,mg/l,all
+Enterococcus,enterogeo,35,colonies/100 mL,all
+Enterococcus,enteroninety,130,colonies/100 mL,all
+Fecal Coliform,fecalstnd,14,MPN/100 mL,shellfish
+Fecal Coliform,fecalten,43,MPN/100 mL,shellfish
+Fluoride,fluoridestndD,4000,ug/l,SD
+pH,highphB,8.5,standard units,SB
+pH,highphD,9,standard units,SD
+Lead ,leadstndB,8.52,ug/l,SB
+pH,lowphB,7.3,standard units,SB
+pH,lowphD,6,standard units,SD
+Methylene blue active substances,MBASB,0.5,mg/l,SB
+Methylene blue active substances,MBASD,0.1,mg/l,SD
+Mercury,mercurystndB,0.051,ug/l,SB
+Mercury,mercurystndD,0.05,ug/l,SD
+Nickel,nickelstndB,8.28,ug/l,SB
+Nitrogen,nitrogenB,5,mg/l,SB
+Nitrogen,nitrogenD,1.7,mg/l,SD
+Nitrogen,nitrogenDLake,0.4,mg/l,lakes only
+Oil and grease,oilfree,5,mg/l,all
+Phosphorus,phosB,1,mg/l,SB
+Phosphorus,phosDlake,0.026,mg/l,lakes only
+Phosphorus,phosDstream,0.16,mg/l,SD
+Selenium,seleniumstndB,71.14,ug/l,SB
+Selenium,seleniumstndD,5,ug/l,SD
+Selenium,seleniumstndDLake,5,ug/l,lakes
+Silver,silverstndB,2.24,ug/l,SB
+Sulfate ,sulfateB,2800,mg/l,SB
+Sulfate ,sulfateD,250,mg/l,SD
+Sulfides,sulfidestnd,2,ug/l,all
+Temperature,temperaturestnd,30,deg C,all
+Thallium,thalliumstndB,0.47,ug/l,SB
+Thallium,thalliumstndD,0.24,ug/l,SD
+Turbidity,turbB,10,ug/l,SB
+Turbidity,turbD,50,ug/l,SD
+Zinc,zincstndB,85.62,ug/l,SB

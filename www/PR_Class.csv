@@ -1,0 +1,359 @@
+ASSESSMENT_UNIT_ID,Class,ASSESSMENT_UNIT_STATE,ASSESSMENT_UNIT_AGENCY,ASSESSMENT_UNIT_NAME
+PRCC53,SB,PR,S,Culebra Island
+PREC09,SB,PR,S,Punta Boca Juana to Punta Salinas
+PREC10B,SB,PR,S,Punta Salinas to Rio Bayamon Mouth
+PREC10C,SB,PR,S,Rio Bayamon Mouth to Isla de Cabras
+PREC11,SB,PR,S,Isla de Cabras to Punta del Morro
+PREC12,SB,PR,S,Punta del Morro to west side of Condado Bridge
+PREC13,SB,PR,S,East side of Condado Bridge to Punta Las Marias
+PREC14,SB,PR,S,Punta Las Marias to Punta Cangrejos
+PREC15,SB,PR,S,Punta Cangrejos to Punta Vacia Talega
+PREC16,SB,PR,S,Punta Vacia Talega to Punta Miquillo
+PREC17,SB,PR,S,Punta Miquillo to Punta La Bandera
+PREC18,SB,PR,S,Punta La Bandera to Cabezas de San Juan
+PREC19,SB,PR,S,Cabezas de San Juan to Punta Barrancas
+PREC20,SB,PR,S,Punta Barrancas to Punta Medio Mundo
+PREC21,SB,PR,S,Punta Medio Mundo to Punta  Puerca
+PREC22,SB,PR,S,Punta Puerca to Isla Cabras
+PREC23,SB,PR,S,Isla Cabras to Punta Cascajo
+PREC24,SB,PR,S,Punta Cascajo to Punta Lima
+PREC25,SB,PR,S,Punta Lima to Morro de Humacao
+PREC26,SB,PR,S,Morro de Humacao to Punta Candelero
+PREC27,SB,PR,S,Punta Candelero to Punta Guayanes
+PREC28B,SB,PR,S,Punta Quebrada Honda to Punta Yeguas
+PREC28C,SB,PR,S,Punta Guayanes to Punta Quebrada Honda
+PREC29,SB,PR,S,Punta Yeguas to Punta Tuna
+PREC30,SB,PR,S,Punta Tuna to Cabo Mala Pascua
+PREE10A,SB,PR,S,Rio La Plata Estuary
+PREE13A1,SB,PR,S,San Juan Bay Estuary
+PREE13A2,SD,PR,S,San Juan Bay Estuary
+PREE13A3,SB,PR,S,San Juan Bay Estuary
+PREE14A,SB,PR,S,Rio Grande de Loiza Estuary
+PREE15A,SB,PR,S,Rio Herrera Estuary 
+PREE16.1,SB,PR,S,Cano Rodriguez Estuary
+PREE16A,SB,PR,S,Rio Espiritu Santo Estuary
+PREE17A,SB,PR,S,Rio Mameyes Estuary
+PREE19A,SB,PR,S,Rio Sabana Estuary
+PREE20A,SB,PR,S,Rio Juan Martin Estuary
+PREE22A,SB,PR,S,Rio Fajardo Estuary
+PREE23A,SB,PR,S,Rio Demajagua Estuary
+PREE25A,SB,PR,S,Quebrada Aguas Claras Estuary
+PREE26A,SB,PR,S,Rio Daguao Estuary
+PREE27A,SB,PR,S,Quebrada Palma Estuary
+PREE28A,SB,PR,S,Quebrada Botijas Estuary
+PREE29A,SB,PR,S,Rio Santiago Estuary
+PREE30A,SB,PR,S,Rio Blanco Estuary
+PREE31A,SB,PR,S,Rio Anton Ruiz Estuary
+PREE33A,SB,PR,S,Rio Humacao Estuary
+PREE34A,SB,PR,S,Rio Candelero Estuary
+PREE35.1,SB,PR,S,Cano de Santiago Estuary
+PREE35A,SB,PR,S,Rio Guayanes Estuary
+PREL110A1,SD,PR,S,Lago La Plata
+PREL12A2,SD,PR,S,Lago Cidra
+PREL14A1,SD,PR,S,Lago Loiza
+PREL210A5,SD,PR,S,Lago Carite
+PREN0011,SB,PR,S,Laguna Aguas Prietas
+PREN0012,SB,PR,S,Laguna Grande
+PREN0013,SB,PR,S,Laguna Ceiba
+PREQ14D,SD,PR,S,Quebrada Maracuto
+PREQ14E,SD,PR,S,Quebrada Grande
+PREQ18A,SD,PR,S,Quebrada Mata de Platano
+PREQ21A,SD,PR,S,Quebrada Fajardo
+PREQ24A,SD,PR,S,Quebrada Ceiba
+PREQ25A,SD,PR,S,Quebrada Aguas Claras
+PREQ27A,SD,PR,S,Quebrada Palma
+PREQ28A,SD,PR,S,Quebrada Botijas
+PREQ30B,SD,PR,S,Quebrada Pena Pobre
+PREQ31A1,SD,PR,S,Quebrada Mulas
+PREQ32A,SD,PR,S,Quebrada Frontera
+PREQ36A,SD,PR,S,Quebrada Emajagua
+PRER10A1,SD,PR,S,Rio La Plata
+PRER10A2,SD,PR,S,Rio La Plata
+PRER10A3,SD,PR,S,Rio La Plata
+PRER10A4,SD,PR,S,Rio La Plata
+PRER10A5,SD,PR,S,Rio La Plata
+PRER10B,SD,PR,S,Rio Lajas
+PRER10C,SD,PR,S,Rio Bucarabones
+PRER10D,SD,PR,S,Rio Canas
+PRER10E,SD,PR,S,Rio Guadiana
+PRER10F,SD,PR,S,Rio Cuesta Arriba
+PRER10G,SD,PR,S,Rio Arroyata
+PRER10H,SD,PR,S,Rio Hondo
+PRER10I1,SD,PR,S,Rio Usabon
+PRER10I2,SD,PR,S,Rio Aibonito
+PRER10J,SD,PR,S,Rio Maton
+PRER10K,SD,PR,S,Rio Guavate
+PRER11A,SD,PR,S,Rio Hondo
+PRER12A1,SD,PR,S,Rio Bayamon
+PRER12A2,SD,PR,S,Rio Bayamon
+PRER12B,SD,PR,S,Rio Guaynabo
+PRER12C,SD,PR,S,Rio Minillas
+PRER14A1,SD,PR,S,Rio Grande de Loiza
+PRER14A2,SD,PR,S,Rio Grande de Loiza
+PRER14B,SD,PR,S,Rio Canovanas
+PRER14C,SD,PR,S,Rio Canovanillas
+PRER14F,SD,PR,S,Rio Canas
+PRER14G1,SD,PR,S,Rio Gurabo
+PRER14G2,SD,PR,S,Rio Valenciano
+PRER14H,SD,PR,S,Rio Bairoa
+PRER14I,SD,PR,S,Rio Caguitas
+PRER14J,SD,PR,S,Rio Turabo
+PRER14K,SD,PR,S,Rio Cayaguas
+PRER14L,SD,PR,S,Rio Emajagua
+PRER15A,SD,PR,S,Rio Herrera
+PRER16A,SD,PR,S,Rio Espiritu Santo
+PRER16A1,SD,PR,S,Rio Espiritu Santo
+PRER17A,SD,PR,S,Rio Mameyes
+PRER17A1,SD,PR,S,Rio Mameyes
+PRER19A,SD,PR,S,Rio Sabana
+PRER19A1,SD,PR,S,Rio Sabana
+PRER20A,SD,PR,S,Rio Juan Martin
+PRER22A,SD,PR,S,Rio Fajardo
+PRER23A,SD,PR,S,Rio Demajagua
+PRER26A,SD,PR,S,Rio Daguao
+PRER29A,SD,PR,S,Rio Santiago
+PRER29A1,SD,PR,S,Rio Santiago
+PRER30A,SD,PR,S,Rio Blanco
+PRER31A,SD,PR,S,Rio Anton Ruiz
+PRER33A,SD,PR,S,Rio Humacao
+PRER34A,SD,PR,S,Rio Candelero
+PRER35A,SD,PR,S,Rio Guayanes
+PRER35A1,SD,PR,S,Rio Ingenio
+PRER37A,SD,PR,S,Rio Maunabo
+PRMC55,SB,PR,S,Mona Island
+PRNC01,SB,PR,S,Punta Borinquen to Punta Sardina
+PRNC02,SB,PR,S,Punta Sardina to Punta Manglillo
+PRNC03,SB,PR,S,Punta Manglillo to Punta Morrillos
+PRNC04,SB,PR,S,Punta Morrillos to Punta Manati
+PRNC05,SB,PR,S,Punta Manati to Punta Chivato
+PRNC06,SB,PR,S,Punta Chivato to Punta Puerto Nuevo
+PRNC07,SB,PR,S,Punta Puerto Nuevo to Punta Cerro Gordo
+PRNC08,SB,PR,S,Punta Cerro Gordo to Punta Boca Juana
+PRNE3A,SB,PR,S,Rio Guajataca Estuary
+PRNE4A,SB,PR,S,Quebrada Bellaca Estuary
+PRNE5A,SB,PR,S,Rio Camuy Estuary
+PRNE7.1,SB,PR,S,Cano Tiburones Estuary
+PRNE7A,SB,PR,S,Rio Grande de Arecibo Estuary
+PRNE8A,SB,PR,S,Rio Grande de Manati Estuary
+PRNE9A,SB,PR,S,Rio Cibuco Estuary
+PRNL17A1,SD,PR,S,Lago Dos Bocas
+PRNL18C1,SD,PR,S,Lago Guineo
+PRNL27C1,SD,PR,S,Lago Caonillas
+PRNL28C1,SD,PR,S,Lago Matrullas
+PRNL37A3,SD,PR,S,Lago Garzas
+PRNL3A1,SD,PR,S,Lago Guajataca
+PRNN0006,SE,PR,S,Laguna Tortuguero
+PRNN0007,SB,PR,S,Laguna Mata Redonda
+PRNQ1A,SD,PR,S,Quebrada de Los Cedros
+PRNQ2A,SD,PR,S,Quebrada del Toro
+PRNQ3B,SD,PR,S,Quebrada Las Sequias
+PRNQ4A,SD,PR,S,Quebrada Bellaca
+PRNQ6A,SD,PR,S,Quebrada Seca
+PRNR3A1,SD,PR,S,Rio Guajataca
+PRNR3A2,SD,PR,S,Rio Guajataca
+PRNR5A,SD,PR,S,Rio Camuy
+PRNR7A1,SD,PR,S,Rio Grande de Arecibo
+PRNR7A1a,SD,PR,S,Rio Santiago
+PRNR7A2,SD,PR,S,Rio Grande de Arecibo
+PRNR7A3,SD,PR,S,Tunel
+PRNR7B1,SD,PR,S,Rio Tanama
+PRNR7B2,SD,PR,S,Rio Tanama
+PRNR7C1,SD,PR,S,Rio Caonillas
+PRNR7C2,SD,PR,S,Rio Limon
+PRNR7C3,SD,PR,S,Rio Yunes
+PRNR8A1,SD,PR,S,Rio Grande de Manati
+PRNR8A2,SD,PR,S,Rio Grande de Manati
+PRNR8A3,SD,PR,S,Rio Grande de Manati
+PRNR8B,SD,PR,S,Rio Cialito
+PRNR8C1,SD,PR,S,Rio Toro Negro
+PRNR8C2,SD,PR,S,Rio Bauta
+PRNR8D,SD,PR,S,Rio Sanamuerto
+PRNR8E1,SD,PR,S,Rio Orocovis
+PRNR8E2,SD,PR,S,Rio Botijas
+PRNR9A,SD,PR,S,Rio Cibuco
+PRNR9B1,SD,PR,S,Rio Indio
+PRNR9B2,SD,PR,S,Rio Morovis
+PRNR9B3,SD,PR,S,Rio Unibon
+PRNR9C,SD,PR,S,Rio Mavilla
+PRNR9D,SD,PR,S,Rio de Los Negros
+PRSC31,SB,PR,S,Cabo Mala Pascua to Punta Viento
+PRSC32,SB,PR,S,Punta Viento to Punta Figuras
+PRSC33,SB,PR,S,Punta Figuras to Punta Ola Grande
+PRSC34,SB,PR,S,Punta Ola Grande to Punta Petrona
+PRSC35,SB,PR,S,Punta Petrona to Punta de Cabullones
+PRSC36B,SB,PR,S,Punta de Cabullones to Punta Carenero
+PRSC36C,SB,PR,S,Punta Carenero to Punta Cuchara
+PRSC37B,SB,PR,S,Punta Cuchara to Cayo Parguera
+PRSC37C,SB,PR,S,Cayo Parguera to Punta Guayanilla
+PRSC38,SB,PR,S,Punta Guayanilla to Punta Verraco
+PRSC39,SB,PR,S,Punta Verraco to Punta Ballenas
+PRSC40,SB,PR,S,Punta Ballenas to Punta Brea
+PRSC41A1,SA,PR,S,Bahia Fosforescente La Parguera
+PRSC41A2,SA,PR,S,Bahia Monsio Jose
+PRSC41B1,SB,PR,S,Punta Brea to Bahia Fosforescente La Parguera
+PRSC41B2,SB,PR,S,Bahia Fosforescente La Parguera to Punta Cueva de Ayala
+PRSC41B3,SB,PR,S,Bahia Monsio Jose to Faro de Cabo Rojo
+PRSE42A,SB,PR,S,Rio Chico Estuary
+PRSE43A,SB,PR,S,Rio Grande de Patillas Estuary
+PRSE46A,SB,PR,S,Quebrada Salada Estuary
+PRSE47A,SB,PR,S,Quebrada Corazon Estuary
+PRSE48A,SB,PR,S,Quebrada Branderi Estuary
+PRSE50A,SB,PR,S,Quebrada Melania Estuary
+PRSE51A,SB,PR,S,Rio Seco Estuary
+PRSE52A,SB,PR,S,Quebrada Amoros Estuary
+PRSE53A,SB,PR,S,Quebrada Aguas Verdes Estuary
+PRSE54A,SB,PR,S,Rio Niguas de Salina Estuary
+PRSE57A,SB,PR,S,Rio Coamo Estuary
+PRSE58A,SB,PR,S,Rio Descalabrado Estuary
+PRSE60A,SB,PR,S,Rio Jacaguas Estuary
+PRSE61A,SB,PR,S,Rio Inabon Estuary
+PRSE64A,SB,PR,S,Rio Matilde Pastillo Estuary
+PRSE65A,SB,PR,S,Rio Tallaboa Estuary
+PRSE66A,SB,PR,S,Rio Macana Estuary
+PRSE68A,SB,PR,S,Rio Yauco Estuary
+PRSE69A,SB,PR,S,Rio Loco Estuary
+PRSL160A1,SD,PR,S,Lago Guayabal
+PRSL260A1,SD,PR,S,Lago Toa Vaca
+PRSL43A1,SD,PR,S,Lago Patillas
+PRSL50A,SD,PR,S,Lago Melania
+PRSL62A1,SD,PR,S,Lago Cerrillos
+PRSL68A1,SD,PR,S,Lago Luchetti
+PRSL69A,SD,PR,S,Lago Loco
+PRSN0014,SB,PR,S,Laguna Pozuelo
+PRSN0015,SB,PR,S,Laguna Mar Negro
+PRSN0016,SB,PR,S,Laguna Punta Arenas
+PRSN0017,SB,PR,S,Laguna Tiburones
+PRSN0018,SB,PR,S,Laguna Salinas
+PRSN0019,SB,PR,S,Laguna Salinas I
+PRSN0020,SB,PR,S,Laguna Cabo Rojo 2
+PRSN0021,SB,PR,S,Laguna Cabo Rojo 3 (El Faro)
+PRSN0022,SB,PR,S,Cano Boqueron
+PRSN0023,SB,PR,S,Laguna Guaniquilla
+PRSN0024,SE,PR,S,Laguna Cartagena
+PRSQ38A,SD,PR,S,Quebrada Manglillo
+PRSQ39A,SD,PR,S,Quebrada Florida
+PRSQ41A,SD,PR,S,Quebrada Palenque
+PRSQ44A,SD,PR,S,Quebrada Yaurel
+PRSQ46A,SD,PR,S,Quebrada Salada
+PRSQ47A,SD,PR,S,Quebrada Corazon
+PRSQ48A,SD,PR,S,Quebrada Branderi
+PRSQ50A,SD,PR,S,Quebrada Melania
+PRSQ52A,SD,PR,S,Quebrada Amoros
+PRSQ53A,SD,PR,S,Quebrada Aguas Verdes
+PRSQ64A1,SD,PR,S,Quebrada del Agua
+PRSR40A,SD,PR,S,Rio Jacaboa
+PRSR42A,SD,PR,S,Rio Chico
+PRSR43A1,SD,PR,S,Rio Grande de Patillas
+PRSR43A2,SD,PR,S,Rio Grande de Patillas
+PRSR43B,SD,PR,S,Rio Marin
+PRSR45A,SD,PR,S,Rio Niguas de Arroyo
+PRSR49A,SD,PR,S,Rio Guamani
+PRSR51A,SD,PR,S,Rio Seco
+PRSR54A,SD,PR,S,Rio Niguas de Salina
+PRSR55A,SD,PR,S,Rio Jueyes
+PRSR56A,SD,PR,S,Rio Cayures
+PRSR57A1,SD,PR,S,Rio Coamo
+PRSR57A2,SD,PR,S,Rio Coamo
+PRSR57B,SD,PR,S,Rio Cuyon
+PRSR58A,SD,PR,S,Rio Descalabrado
+PRSR59A,SD,PR,S,Rio Canas
+PRSR60A1,SD,PR,S,Rio Jacaguas
+PRSR60A2,SD,PR,S,Rio Jacaguas
+PRSR61A,SD,PR,S,Rio Inabon
+PRSR62A1,SD,PR,S,Rio Bucana-Cerrillos
+PRSR62A2,SD,PR,S,Rio Bucana-Cerrillos
+PRSR63A,SD,PR,S,Rio Portugues
+PRSR64A,SD,PR,S,Rio Matilde Pastillo
+PRSR65A,SD,PR,S,Rio Tallaboa
+PRSR66A,SD,PR,S,Rio Macana
+PRSR67A,SD,PR,S,Rio Guayanilla
+PRSR68A1,SD,PR,S,Rio Yauco
+PRSR68A2,SD,PR,S,Rio Yauco
+PRSR69A1,SD,PR,S,Rio Loco
+PRSR69A2,SD,PR,S,Rio Loco
+PRSR70A,SD,PR,S,Rio Arroyo Cajul
+PRVC54A,SA,PR,S,Bahia Mosquito
+PRVC54B,SB,PR,S,Vieques Island
+PRWC42,SB,PR,S,Faro de Cabo Rojo to Punta Aguila
+PRWC43,SB,PR,S,Punta Aguila to Punta Guaniquilla
+PRWC44,SB,PR,S,Punta Guaniquilla to Punta La Mela
+PRWC45,SB,PR,S,Punta La Mela to Punta Carenero
+PRWC46,SB,PR,S,Punta Carenero to front of Cayo Ratones
+PRWC47,SB,PR,S,Frenta a Cayo Ratones to Punta Guanajibo
+PRWC48,SB,PR,S,Punta Guanajibo to Punta Algarrobo
+PRWC49,SB,PR,S,Punta Algarrobo to Punta Cadena
+PRWC50,SB,PR,S,Punta Cadena to Punta Higuero
+PRWC51,SB,PR,S,Punta Higuero to Punta del Boqueron
+PRWC52,SB,PR,S,Punta del Boqueron to Punta Borinquen
+PRWE71A,SB,PR,S,Quebrada Boqueron Estuary
+PRWE72A,SB,PR,S,Quebrada Zumbon Estuary
+PRWE73A,SB,PR,S,Quebrada Gonzalez Estuary
+PRWE74A,SB,PR,S,Quebrada Los Pajaritos Estuary
+PRWE77A,SB,PR,S,Rio Guanajibo Estuary
+PRWE78A,SB,PR,S,Cano Merle Estuary
+PRWE79A,SB,PR,S,Rio Yaguez Estuary
+PRWE82A,SB,PR,S,Cano Boquilla Estuary
+PRWE83A,SB,PR,S,Rio Grande de Anasco Estuary
+PRWE88A,SD,PR,S,Quebrada Grande de Calvache Estuary
+PRWE89A,SB,PR,S,Quebrada Los Ramos Estuary
+PRWE92A,SB,PR,S,Rio Grande Estuary
+PRWE93A,SB,PR,S,Cano de Santi Ponce Estuary
+PRWE94A,SB,PR,S,Rio Guayabo Estuary
+PRWE95A,SB,PR,S,Rio Culebrinas Estuary
+PRWK75A,SD,PR,S,Cano Conde Avila
+PRWK78A,SD,PR,S,Cano Merle
+PRWK81A,SD,PR,S,Cano Mani
+PRWK82A,SD,PR,S,Cano Boquilla
+PRWK82A1,SD,PR,S,Cano Boquilla
+PRWK82A2,SD,PR,S,Cano Boquilla
+PRWK87A,SD,PR,S,Cano Garcia
+PRWK93A,SD,PR,S,Cano de Santi Ponce
+PRWK96A,SD,PR,S,Cano Corazones
+PRWL83H,SD,PR,S,Lago Guayo
+PRWN0005,SB,PR,S,Laguna Joyuda
+PRWQ71A,SD,PR,S,Quebrada Boqueron
+PRWQ72A,SD,PR,S,Quebrada Zumbon
+PRWQ73A,SD,PR,S,Quebrada Gonzalez
+PRWQ74A,SD,PR,S,Quebrada Los Pajaritos
+PRWQ76A,SD,PR,S,Quebrada Irizarry
+PRWQ78A1,SD,PR,S,Quebrada Sabalo
+PRWQ80A,SD,PR,S,Quebrada del Oro
+PRWQ84A,SD,PR,S,Quebrada Justo
+PRWQ85A,SD,PR,S,Quebrada Icacos
+PRWQ86A,SD,PR,S,Quebrada Caguabo
+PRWQ88A,SD,PR,S,Quebrada Grande de Calvache
+PRWQ89A,SD,PR,S,Quebrada Los Ramos
+PRWQ90A,SD,PR,S,Quebrada Punta Ensenada
+PRWQ91A,SD,PR,S,Quebrada Piletas
+PRWQ95C,SD,PR,S,Quebrada Grande
+PRWQ95D,SD,PR,S,Quebrada Las Marias
+PRWQ95E,SD,PR,S,Quebrada Yagruma
+PRWQ95F,SD,PR,S,Quebrada La Salle
+PRWQ95G,SD,PR,S,Quebrada El Salto
+PRWQ95H,SD,PR,S,Quebrada Grande de La Majagua
+PRWQ95I,SD,PR,S,Quebrada Salada
+PRWR77A,SD,PR,S,Rio Guanajibo
+PRWR77B,SD,PR,S,Rio Hondo
+PRWR77C,SD,PR,S,Rio Rosario
+PRWR77D,SD,PR,S,Rio Viejo
+PRWR77E,SD,PR,S,Rio Duey y Rio Hoconuco
+PRWR77F,SD,PR,S,Rio Cain
+PRWR77G,SD,PR,S,Rio Cupeyes
+PRWR77H,SD,PR,S,Rio Cruces
+PRWR77I,SD,PR,S,Rio Grande
+PRWR79A,SD,PR,S,Rio Yaguez
+PRWR83A,SD,PR,S,Rio Grande de Anasco
+PRWR83B,SD,PR,S,Rio Canas
+PRWR83C,SD,PR,S,Rio Casey
+PRWR83D,SD,PR,S,Rio Humata
+PRWR83E,SD,PR,S,Rio Arenas
+PRWR83F,SD,PR,S,Rio Mayaguecillo
+PRWR83G,SD,PR,S,Rio Guaba
+PRWR83H,SD,PR,S,Rio Blanco
+PRWR83I,SD,PR,S,Rio Prieto
+PRWR92A,SD,PR,S,Rio Grande
+PRWR94A,SD,PR,S,Rio Guayabo
+PRWR95A,SD,PR,S,Rio Culebrinas
+PRWR95B,SD,PR,S,Rio Cano (Rio Canas)
+PRWR95J,SD,PR,S,Rio Sonador
+PRWR95K,SD,PR,S,Rio Guatemala
